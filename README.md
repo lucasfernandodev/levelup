@@ -1,4 +1,4 @@
-![Logo of the project]('./docs/imagens/levelup.png')
+![Logo of the project](./docs/imagens/levelup.png)
 
 # levelUp
 

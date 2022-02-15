@@ -4,12 +4,12 @@
 
 Por aqui você pode encontrar os projetos que eu faço para estudo, geralmente eles são desenvolvidos assistindo aulas do Youtube ou a partir de artigos, por eles serem muito incompletos resolvi juntar todos eles em um único repositório.
 
-## ⚒️ Projetos
+## ⚔️ Projetos
 
 |Title|Techs|Project|
 |-----|-----|-------|
-|data fetching| Reactjs & Typescript & React-Query | <a href="./projects/data-fetching">Take a look</a>|
-|node api with tdd| Node & Typescript & jest | <a href="./projects/node-api-with-tdd">Take a look</a> |
+|Data fetching| Reactjs & Typescript & React-Query | <a href="./projects/data-fetching">Take a look</a>|
+|Node api with TDD| Node & Typescript & jest | <a href="./projects/node-api-with-tdd">Take a look</a> |
 
 ## 🌍 Me encontre na web
 

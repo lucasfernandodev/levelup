@@ -1,14 +1,14 @@
 ![Logo of the project](./docs/imagens/levelup.png)
 
-# LevelUp
+# 🚀 LevelUp
 
 Por aqui você pode encontrar os projetos que eu faço para estudo, geralmente eles são desenvolvidos assistindo aulas do Youtube ou a partir de artigos, por eles serem muito incompletos resolvi juntar todos eles em um único repositório.
 
-## Projetos
+## ⚒️ Projetos
 
 |Title|Techs|Project|
 |-----|-----|-------|
-|data-fetching| Reactjs & Typescript & Axios & React-Query | <a href="./data-fetching">Take a look</a>|
+|data-fetching| Reactjs & Typescript & React-Query | <a href="./data-fetching">Take a look</a>|
 
 
 ## 🌍 Me encontre na web

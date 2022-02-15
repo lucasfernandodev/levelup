@@ -8,8 +8,8 @@ Por aqui você pode encontrar os projetos que eu faço para estudo, geralmente e
 
 |Title|Techs|Project|
 |-----|-----|-------|
-|data-fetching| Reactjs & Typescript & React-Query | <a href="./data-fetching">Take a look</a>|
-|node-api-with-tdd| Node & Typescript & jest | <a href="./node-api-with-tdd">Take a look</a> |
+|data fetching| Reactjs & Typescript & React-Query | <a href="./projects/data-fetching">Take a look</a>|
+|node api with tdd| Node & Typescript & jest | <a href="./projects/node-api-with-tdd">Take a look</a> |
 
 ## 🌍 Me encontre na web
 

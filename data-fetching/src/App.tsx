@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useFetch } from "./hooks/useFetch";
 
 type Repos = {
   full_name: string;
@@ -6,21 +6,15 @@ type Repos = {
 };
 
 function App() {
-  const [repos, setRepos] = useState<Repos[]>([]);
-
-  useEffect(() => {
-    fetch("http://api.github.com/users/lucasfernandodev/repos")
-      .then((response) => response.json())
-      .then((data) => setRepos(data));
-  }, []);
+ 
+  const {data : repositories} = useFetch<Repos[]>("http://api.github.com/users/lucasfernandodev/repos")
 
   return (
     <>
-      {repos &&
-        repos?.map((repos) => (
-          <li key={repos.full_name}>
-            {repos.full_name} <br />
-            {repos.description}
+      {repositories && repositories?.map((repo) => (
+          <li key={repo.full_name}>
+            {repo.full_name} <br />
+            {repo.description}
           </li>
         ))}
     </>

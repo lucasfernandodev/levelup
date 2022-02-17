@@ -10,6 +10,7 @@ Por aqui você pode encontrar os projetos que eu faço para estudo, geralmente e
 |-----|-----|-------|
 |Data fetching| Reactjs & Typescript & React-Query | <a href="./projects/data-fetching">Take a look</a>|
 |Node api with TDD| Node & Typescript & jest | <a href="./projects/node-api-with-tdd">Take a look</a> |
+| Blog JAMStack | React.js & tailwind & Typescript & Next.js & Graphql | <a href="./projects/app-jamstack">Take a look</a>|
 
 ## 🌍 Me encontre na web
 

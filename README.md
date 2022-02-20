@@ -1,8 +1,7 @@
 ![Logo of the project](./docs/imagens/levelup.png)
 
 # 🚀 LevelUp
-
-Por aqui você pode encontrar os projetos que eu faço para estudo, geralmente eles são desenvolvidos assistindo aulas do Youtube ou a partir de artigos, por eles serem muito incompletos resolvi juntar todos eles em um único repositório.
+Nesse repositório pode se encontrar os projetos que eu faço para estudo, geralmente eles são desenvolvidos assistindo aulas no YouTube ou a partir de artigos, e por eles serem muito incompletos como uma aplicação decidi agrupar todos eles em um único repositório.
 
 ## ⚔️ Projetos
 
@@ -10,7 +9,9 @@ Por aqui você pode encontrar os projetos que eu faço para estudo, geralmente e
 |-----|-----|-------|
 |Data fetching| Reactjs & Typescript & React-Query | <a href="./projects/data-fetching">Take a look</a>|
 |Node api with TDD| Node & Typescript & jest | <a href="./projects/node-api-with-tdd">Take a look</a> |
-| Blog JAMStack | React.js & tailwind & Typescript & Next.js & Graphql | <a href="./projects/app-jamstack">Take a look</a>|
+|Blog JAMStack | React.js & tailwind & Typescript & Next.js & Graphql | <a href="./projects/app-jamstack">Take a look</a>|
+|Testando aplicações React com Jest & Testing Library | React.js & Jest & Testing Library | <a href=".projects/react-unit-test"></a>|
+
 
 ## 🌍 Me encontre na web
 

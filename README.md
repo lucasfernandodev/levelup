@@ -1,7 +1,12 @@
 ![Logo of the project](./docs/imagens/levelup.png)
 
-# 🚀 LevelUp
+<h1 align="center" text-align="center">LevelUp</h2>
+  <p  align="center" text-align="center">Uma agrupador de projetos de estudo</p>
+<hr />
 Nesse repositório pode se encontrar os projetos que eu faço para estudo, geralmente eles são desenvolvidos assistindo aulas no YouTube ou a partir de artigos, e por eles serem muito incompletos como uma aplicação decidi agrupar todos eles em um único repositório.
+
+
+
 
 ## ⚔️ Projetos
 

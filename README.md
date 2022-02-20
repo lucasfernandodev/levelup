@@ -2,16 +2,15 @@
 
 <h1 align="center" text-align="center">LevelUp</h2>
 
-
-
-
+<br />
+<br />
 
 ## ☁️ Visão geral
 
 Nesse repositório pode se encontrar os projetos que eu faço para estudo, geralmente eles são desenvolvidos assistindo aulas no YouTube ou a partir de artigos, e por eles serem muito incompletos como uma aplicação decidi agrupar todos eles em um único repositório.
 
 
-
+<br />
 
 ## ⚔️ Projetos
 

@@ -20,6 +20,7 @@ Nesse repositório pode se encontrar os projetos que eu faço para estudo, geral
 |Node api with TDD| Node & Typescript & jest | <a href="./projects/node-api-with-tdd">Take a look</a> |
 |Blog JAMStack | React.js & tailwind & Typescript & Next.js & Graphql | <a href="./projects/app-jamstack">Take a look</a>|
 |Testando aplicações React | React.js & Jest & Testing Library | <a href=".projects/react-unit-test">Take a look</a>|
+| Exemplo de teste E2E com jest | Nodejs & Jest | <a href=".projects/testeapie2e">Take a look</a>|
 
 
 ## 🌍 Me encontre na web
